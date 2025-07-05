@@ -6,6 +6,11 @@ A Gradio-powered Hugging Face Space that recommends similar grocery products bas
 
 ---
 
+
+https://github.com/user-attachments/assets/bc6e256d-7dab-4d82-9f50-66e59af24df8
+
+
+
 ## 🚀 Features
 
 - 🔎 **Semantic Search**: Uses `sentence-transformers` to embed product descriptions
