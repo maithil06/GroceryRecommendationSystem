@@ -2,7 +2,7 @@
 
 A Gradio-powered Hugging Face Space that recommends similar grocery products based on ingredients using semantic similarity and FAISS search. Optionally displays product images (if available).
 
-[![View on Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20Space-Hugging%20Face-blueviolet)]((https://huggingface.co/spaces/Maithil06/GroceryRecommendationSystem/))
+[![View on Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20Space-Hugging%20Face-blueviolet)](https://huggingface.co/spaces/Maithil06/GroceryRecommendationSystem/)
 
 ---
 
